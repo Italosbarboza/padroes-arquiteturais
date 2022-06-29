@@ -1,7 +1,5 @@
 # MVC Exemplo Node.JS
-Projeto criado para exemplo prático do artigo:  MVC - Conceito e exemplo em Node.JS
-
-Artigo disponível em meu blog: https://irias.com.br/blog/mvc-conceito-e-exemplo-em-node-js/
+Projeto criado para exemplo prático do padrão arquitetural MVC - Conceito e exemplo em Node.JS
 
 ### Dependências
 
